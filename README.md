@@ -1,4 +1,4 @@
-# Image_Descriptors_With_CNN_KNN_Bayes
+# Descripteurs_Image_avec_CNN_KNN_Bayes
 
 
 

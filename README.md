@@ -45,13 +45,17 @@ c'est la phase de la normalisation des courbes paramétrés par longueur d'arc n
 
 - les descripteurs de fourier :  Soit C(t) = x(t)+i y(t) une courbe paramétrique représentant le contour ferme d’une forme, on note par f sa transformée de Fourier discrète. 
 
-On distingue deux ensembles de descripteurs : 
 
 ![fourier](https://user-images.githubusercontent.com/65729882/135353586-c4ea7ae8-4aee-457b-903f-ce95f0857126.PNG)
 
 
-- HOG
+On distingue deux ensembles de descripteurs : 
 
+
+![i1i2](https://user-images.githubusercontent.com/65729882/135354135-be4c8046-2dea-437d-8756-26c5c60c9bb1.PNG)
+
+
+- HOG  : Histogramme de gradient orienté
 
 
 
